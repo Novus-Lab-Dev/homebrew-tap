@@ -1,6 +1,6 @@
 # Novus Lab Homebrew Tap
 
-Official Homebrew tap for [QueryDock](https://github.com/Novus-Lab-Dev/QueryDock) and Novus Lab applications.
+Official Homebrew tap for [QueryDock](https://github.com/Novus-Lab-Dev/querydock-releases) and Novus Lab applications.
 
 ## Installation
 
