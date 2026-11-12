@@ -8,7 +8,6 @@ cask "querydock" do
   homepage "https://github.com/Novus-Lab-Dev/querydock-releases"
 
   auto_updates true
-  depends_on macos: ">= :catalina"
 
   app "QueryDock.app"
 
